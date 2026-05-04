@@ -2,6 +2,8 @@
 
 [English](#english) | [繁體中文](#繁體中文)
 
+![DogeKnight preview](./preview.gif)
+
 ## English
 
 This package contains a custom Codex pet:
